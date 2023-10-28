@@ -21,4 +21,4 @@ Definición de software: Mi programa realiza la tarea especifica de recibir una 
 Cualidades del software: El programa es fácil de usar, desde un principio se guía al usuario para poder ingresar los datos.
 Mi programa fue creado en lenguaje Python, un lenguaje de programación ampliamente utilizado en las aplicaciones web, el desarrollo de software, la ciencia de datos y el machine learning.
 
-Tambien realice una calculadora que nos permite elegir entre las operaciones de suma, resta, division y multiplicacion con 2 numeros que el usuario debe ingresa.
+También realice una calculadora que nos permite elegir entre las operaciones de suma, resta, división y multiplicación con 2 números que el usuario debe ingresa.
